@@ -48,3 +48,6 @@
 ![Redis](https://img.shields.io/badge/-redis-FF4438?style=for-the-badge&logo=redis&logoColor=fff)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-232F3E?style=for-the-badge&logo=mariadb&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+
+
+<img src="https://github.com/roy0424/roy0424/blob/output/github-snake-dark.svg" width="100%">
