@@ -49,5 +49,11 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-232F3E?style=for-the-badge&logo=mariadb&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 
-
-<img src="https://github.com/roy0424/roy0424/blob/output/github-snake-dark.svg" width="100%">
+<div align="center">
+  <a title="Snake Animation" href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/roy0424/roy0424/blob/output/github-snake-dark.svg">
+      <img src="https://github.com/roy0424/roy0424/blob/output/github-snake.svg" width="100%">
+    </picture>
+  </a>
+</div>
