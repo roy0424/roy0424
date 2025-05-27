@@ -14,14 +14,14 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=roy0424)](https://solved.ac/roy0424/)
 
-## Trophy for fun
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roy0424&margin-w=12&margin-h=5&count_private=true&theme=nord" />
-</p>
-
-
 ## Skills
+
+### Certificates
+![📘 정보처리기사](https://img.shields.io/badge/📘_정보처리기사-A7C7E7?style=for-the-badge&logoColor=white)
+![🛡️ 정보보안기사](https://img.shields.io/badge/🛡️_정보보안기사-F6A5A5?style=for-the-badge&logoColor=white)
+![🔐 정보보안산업기사](https://img.shields.io/badge/🔐_정보보안산업기사-FDD7AA?style=for-the-badge&logoColor=white)
+![📊 ADsP (데이터분석준전문가)](https://img.shields.io/badge/📊_ADsP_(데이터분석준전문가)-B0E3B9?style=for-the-badge&logoColor=white)
+![🌐 네트워크관리사 2급](https://img.shields.io/badge/🌐_네트워크관리사_2급-B4D8E7?style=for-the-badge&logoColor=white)
 
 ### Languages
 ![C](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&logo=c&logoColor=fff)
@@ -48,6 +48,12 @@
 ![Redis](https://img.shields.io/badge/-redis-FF4438?style=for-the-badge&logo=redis&logoColor=fff)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-232F3E?style=for-the-badge&logo=mariadb&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+
+## Trophy for fun
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=roy0424&margin-w=12&margin-h=5&count_private=true&theme=nord" />
+</p>
 
 <div align="center">
   <a title="Snake Animation" href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">
