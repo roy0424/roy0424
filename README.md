@@ -1,4 +1,4 @@
-# kyhan 🥴 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Froy0424&count_bg=%23B5CCFF&title_bg=%236894FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# kyhan 🥴 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Froy0424?color=purple&label=hits&size=small)](https://myhits.vercel.app)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy0424&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
