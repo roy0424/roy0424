@@ -22,6 +22,8 @@
 ![🔐 정보보안산업기사](https://img.shields.io/badge/🔐_정보보안산업기사-FDD7AA?style=for-the-badge&logoColor=white)
 ![📊 ADsP (데이터분석준전문가)](https://img.shields.io/badge/📊_ADsP_(데이터분석준전문가)-B0E3B9?style=for-the-badge&logoColor=white)
 ![🌐 네트워크관리사 2급](https://img.shields.io/badge/🌐_네트워크관리사_2급-B4D8E7?style=for-the-badge&logoColor=white)
+![🧾 SQLD](https://img.shields.io/badge/🧾_SQLD-FFE6AA?style=for-the-badge&logoColor=white)
+![🐧 리눅스마스터 2급](https://img.shields.io/badge/🐧_리눅스마스터_2급-C6E2FF?style=for-the-badge&logoColor=white)
 
 ### Languages
 ![C](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&logo=c&logoColor=fff)
